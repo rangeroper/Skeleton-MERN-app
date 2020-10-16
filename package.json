@@ -1,7 +1,7 @@
 {
-  "name": "mern-simplesetup",
-  "version": "2.0.0",
-  "description": "A quick check for your MERN stack installation",
+  "name": "Skeleton-MERN-app",
+  "version": "1.0.0",
+  "description": "Base skeleton MERN setup",
   "author": "Brandon Mochel",
   "license": "MIT",
   "keywords": [
